@@ -1,0 +1,4 @@
+this is about describe this algorithms:
+AES, DES, RSA, RNG, Vernam, Caesar, PlayFair
+in persian
+joy it
